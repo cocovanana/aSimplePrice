@@ -1,0 +1,7 @@
+## Interface: 11302
+## Author: cocovanana
+## Title: aSimplePrice |cff1a9fc0Classic|r
+## Version: 1.1
+## Notes: Displays vendor price.
+
+init.lua
